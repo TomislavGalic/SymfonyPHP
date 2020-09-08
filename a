@@ -1,0 +1,24 @@
+[33mcommit 538d9f7862a94b9238953ca471b8f3909ae0c167[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Tomislav Galić <tomislav.galic19@gmail.com>
+Date:   Tue Sep 8 17:17:28 2020 +0200
+
+    Add initial set of files
+
+.env
+.gitignore
+bin/console
+composer.json
+composer.lock
+config/bundles.php
+config/packages/cache.yaml
+config/packages/framework.yaml
+config/packages/prod/routing.yaml
+config/packages/routing.yaml
+config/packages/test/framework.yaml
+config/routes.yaml
+config/routes/dev/framework.yaml
+config/services.yaml
+public/index.php
+src/Controller/.gitignore
+src/Kernel.php
+symfony.lock
