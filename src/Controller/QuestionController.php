@@ -28,6 +28,8 @@ class QuestionController extends AbstractController
             'Maybe... try spell backwars',
         ];
 
+        dump($this);
+
 
         return $this->render('question/show.html.twig', [
             'question' => ucwords(str_replace(' ', ' ', $slug)),
