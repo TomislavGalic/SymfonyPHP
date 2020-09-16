@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1084175e-cec3-4bd2-95f5-ef8ab1a6d2f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/js/question_show.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/question/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/question/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/CommentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/CommentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/QuestionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/QuestionController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +140,7 @@
       <workItem from="1600083501106" duration="32000" />
       <workItem from="1600158879538" duration="3569000" />
       <workItem from="1600250352603" duration="268000" />
-      <workItem from="1600252253940" duration="1032000" />
+      <workItem from="1600252253940" duration="2990000" />
     </task>
     <servers />
   </component>
